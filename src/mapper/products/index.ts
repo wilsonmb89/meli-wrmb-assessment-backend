@@ -1,0 +1,1 @@
+export { SearchAllResponseMapper } from './search-all-response';
